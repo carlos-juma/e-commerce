@@ -1,0 +1,52 @@
+[
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a1" },
+      "name": "Laptop",
+      "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+      "price": 1200,
+      "category": "Electronics"
+    },
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a2" },
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones with Bluetooth support.",
+      "price": 250,
+      "category": "Electronics"
+    },
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a3" },
+      "name": "Office Chair",
+      "description": "Ergonomic office chair with adjustable lumbar support.",
+      "price": 350,
+      "category": "Furniture"
+    },
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a4" },
+      "name": "Gaming Mouse",
+      "description": "RGB gaming mouse with programmable buttons and high DPI.",
+      "price": 75,
+      "category": "Electronics"
+    },
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a5" },
+      "name": "Smartphone",
+      "description": "Latest 5G smartphone with 128GB storage and 48MP camera.",
+      "price": 900,
+      "category": "Electronics"
+    },
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a6" },
+      "name": "Bookshelf",
+      "description": "Wooden bookshelf with five shelves and a modern design.",
+      "price": 150,
+      "category": "Furniture"
+    },
+    {
+      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a7" },
+      "name": "Table Lamp",
+      "description": "LED table lamp with adjustable brightness and color temperature.",
+      "price": 40,
+      "category": "Home Decor"
+    }
+  ]
+  
