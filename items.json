@@ -1,52 +1,122 @@
 [
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a1" },
-      "name": "Laptop",
-      "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
-      "price": 1200,
-      "category": "Electronics"
-    },
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a2" },
-      "name": "Headphones",
-      "description": "Noise-cancelling over-ear headphones with Bluetooth support.",
-      "price": 250,
-      "category": "Electronics"
-    },
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a3" },
-      "name": "Office Chair",
-      "description": "Ergonomic office chair with adjustable lumbar support.",
-      "price": 350,
-      "category": "Furniture"
-    },
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a4" },
-      "name": "Gaming Mouse",
-      "description": "RGB gaming mouse with programmable buttons and high DPI.",
-      "price": 75,
-      "category": "Electronics"
-    },
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a5" },
-      "name": "Smartphone",
-      "description": "Latest 5G smartphone with 128GB storage and 48MP camera.",
-      "price": 900,
-      "category": "Electronics"
-    },
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a6" },
-      "name": "Bookshelf",
-      "description": "Wooden bookshelf with five shelves and a modern design.",
-      "price": 150,
-      "category": "Furniture"
-    },
-    {
-      "_id": { "$oid": "650f0d1d9b1e8b6d229f12a7" },
-      "name": "Table Lamp",
-      "description": "LED table lamp with adjustable brightness and color temperature.",
-      "price": 40,
-      "category": "Home Decor"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "description": "High-end gaming laptop with an Intel i7 processor, 16GB RAM, and 512GB SSD.",
+    "image": "laptop.png",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "price": 199.99,
+    "description": "Noise-cancelling headphones with premium sound quality and a comfortable fit.",
+    "image": "headphones.png",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone",
+    "price": 799.99,
+    "description": "Latest generation smartphone with 5G support and an advanced camera system.",
+    "image": "smartphone.png",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 249.99,
+    "description": "Fitness-focused smartwatch with GPS, heart rate monitoring, and water resistance.",
+    "image": "smartwatch.png",
+    "category": "Wearables"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 89.99,
+    "description": "Portable Bluetooth speaker with powerful sound and a 10-hour battery life.",
+    "image": "bluetooth-speaker.png",
+    "category": "Audio"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "description": "High-precision gaming mouse with customizable RGB lighting and programmable buttons.",
+    "image": "gaming-mouse.png",
+    "category": "Gaming"
+  },
+  {
+    "id": 7,
+    "name": "Keyboard",
+    "price": 119.99,
+    "description": "Mechanical keyboard with tactile switches and customizable keycaps.",
+    "image": "keyboard.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "name": "4K Monitor",
+    "price": 349.99,
+    "description": "27-inch 4K monitor with ultra-thin bezels and 60Hz refresh rate, perfect for productivity and gaming.",
+    "image": "monitor.png",
+    "category": "Electronics"
+  },
+  {
+    "id": 9,
+    "name": "External Hard Drive",
+    "price": 109.99,
+    "description": "2TB external hard drive for high-speed data transfer and reliable storage.",
+    "image": "external-hard-drive.png",
+    "category": "Storage"
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "price": 59.99,
+    "description": "Lightweight fitness tracker with sleep tracking and step counting features.",
+    "image": "fitness-tracker.png",
+    "category": "Wearables"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Earbuds",
+    "price": 149.99,
+    "description": "True wireless earbuds with active noise cancellation and a compact charging case.",
+    "image": "wireless-earbuds.png",
+    "category": "Audio"
+  },
+  {
+    "id": 12,
+    "name": "Gaming Chair",
+    "price": 299.99,
+    "description": "Ergonomic gaming chair with lumbar support and adjustable armrests.",
+    "image": "gaming-chair.png",
+    "category": "Furniture"
+  },
+  {
+    "id": 13,
+    "name": "Action Camera",
+    "price": 199.99,
+    "description": "4K action camera with waterproof housing and various mounting options.",
+    "image": "action-camera.png",
+    "category": "Cameras"
+  },
+  {
+    "id": 14,
+    "name": "Electric Scooter",
+    "price": 499.99,
+    "description": "Foldable electric scooter with a top speed of 15 mph and a range of 18 miles.",
+    "image": "electric-scooter.png",
+    "category": "Outdoor"
+  },
+  {
+    "id": 15,
+    "name": "Tablet",
+    "price": 399.99,
+    "description": "10-inch tablet with a Retina display, 128GB storage, and Apple Pencil support.",
+    "image": "tablet.png",
+    "category": "Electronics"
+  }
+]
